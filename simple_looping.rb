@@ -8,6 +8,7 @@ def loop_iterator(number_of_times)
     i += 1 
     if i == number_of_times
       break 
+    end
   end
 end
   # Code your solution here using the "loop" keyword to puts out the below phrase
